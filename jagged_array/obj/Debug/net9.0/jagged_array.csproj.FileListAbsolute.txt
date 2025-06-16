@@ -1,0 +1,14 @@
+/home/ace/Documents/semester-6/dotnet/jagged_array/obj/Debug/net9.0/jagged_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/jagged_array/obj/Debug/net9.0/jagged_array.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/jagged_array/obj/Debug/net9.0/jagged_array.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/jagged_array/obj/Debug/net9.0/jagged_array.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/jagged_array/bin/Debug/net9.0/jagged_array
+/home/ace/Documents/semester-6/dotnet/jagged_array/bin/Debug/net9.0/jagged_array.deps.json
+/home/ace/Documents/semester-6/dotnet/jagged_array/bin/Debug/net9.0/jagged_array.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/jagged_array/bin/Debug/net9.0/jagged_array.dll
+/home/ace/Documents/semester-6/dotnet/jagged_array/bin/Debug/net9.0/jagged_array.pdb
+/home/ace/Documents/semester-6/dotnet/jagged_array/obj/Debug/net9.0/jagged_array.dll
+/home/ace/Documents/semester-6/dotnet/jagged_array/obj/Debug/net9.0/refint/jagged_array.dll
+/home/ace/Documents/semester-6/dotnet/jagged_array/obj/Debug/net9.0/jagged_array.pdb
+/home/ace/Documents/semester-6/dotnet/jagged_array/obj/Debug/net9.0/jagged_array.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/jagged_array/obj/Debug/net9.0/ref/jagged_array.dll

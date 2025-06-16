@@ -1,0 +1,14 @@
+/home/ace/Documents/semester-6/dotnet/string_methods/bin/Debug/net9.0/string_methods
+/home/ace/Documents/semester-6/dotnet/string_methods/bin/Debug/net9.0/string_methods.deps.json
+/home/ace/Documents/semester-6/dotnet/string_methods/bin/Debug/net9.0/string_methods.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/string_methods/bin/Debug/net9.0/string_methods.dll
+/home/ace/Documents/semester-6/dotnet/string_methods/bin/Debug/net9.0/string_methods.pdb
+/home/ace/Documents/semester-6/dotnet/string_methods/obj/Debug/net9.0/string_methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/string_methods/obj/Debug/net9.0/string_methods.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/string_methods/obj/Debug/net9.0/string_methods.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/string_methods/obj/Debug/net9.0/string_methods.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/string_methods/obj/Debug/net9.0/string_methods.dll
+/home/ace/Documents/semester-6/dotnet/string_methods/obj/Debug/net9.0/refint/string_methods.dll
+/home/ace/Documents/semester-6/dotnet/string_methods/obj/Debug/net9.0/string_methods.pdb
+/home/ace/Documents/semester-6/dotnet/string_methods/obj/Debug/net9.0/string_methods.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/string_methods/obj/Debug/net9.0/ref/string_methods.dll

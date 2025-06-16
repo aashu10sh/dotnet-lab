@@ -1,0 +1,14 @@
+/home/ace/Documents/semester-6/dotnet/first/obj/Debug/net9.0/first.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/first/obj/Debug/net9.0/first.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/first/obj/Debug/net9.0/first.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/first/obj/Debug/net9.0/first.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/first/bin/Debug/net9.0/first
+/home/ace/Documents/semester-6/dotnet/first/bin/Debug/net9.0/first.deps.json
+/home/ace/Documents/semester-6/dotnet/first/bin/Debug/net9.0/first.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/first/bin/Debug/net9.0/first.dll
+/home/ace/Documents/semester-6/dotnet/first/bin/Debug/net9.0/first.pdb
+/home/ace/Documents/semester-6/dotnet/first/obj/Debug/net9.0/first.dll
+/home/ace/Documents/semester-6/dotnet/first/obj/Debug/net9.0/refint/first.dll
+/home/ace/Documents/semester-6/dotnet/first/obj/Debug/net9.0/first.pdb
+/home/ace/Documents/semester-6/dotnet/first/obj/Debug/net9.0/first.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/first/obj/Debug/net9.0/ref/first.dll

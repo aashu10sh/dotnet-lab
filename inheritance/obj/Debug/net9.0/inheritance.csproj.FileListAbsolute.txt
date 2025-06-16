@@ -1,0 +1,14 @@
+/home/ace/Documents/semester-6/dotnet/inheritance/bin/Debug/net9.0/inheritance
+/home/ace/Documents/semester-6/dotnet/inheritance/bin/Debug/net9.0/inheritance.deps.json
+/home/ace/Documents/semester-6/dotnet/inheritance/bin/Debug/net9.0/inheritance.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/inheritance/bin/Debug/net9.0/inheritance.dll
+/home/ace/Documents/semester-6/dotnet/inheritance/bin/Debug/net9.0/inheritance.pdb
+/home/ace/Documents/semester-6/dotnet/inheritance/obj/Debug/net9.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/inheritance/obj/Debug/net9.0/inheritance.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/inheritance/obj/Debug/net9.0/inheritance.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/inheritance/obj/Debug/net9.0/inheritance.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/inheritance/obj/Debug/net9.0/inheritance.dll
+/home/ace/Documents/semester-6/dotnet/inheritance/obj/Debug/net9.0/refint/inheritance.dll
+/home/ace/Documents/semester-6/dotnet/inheritance/obj/Debug/net9.0/inheritance.pdb
+/home/ace/Documents/semester-6/dotnet/inheritance/obj/Debug/net9.0/inheritance.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/inheritance/obj/Debug/net9.0/ref/inheritance.dll

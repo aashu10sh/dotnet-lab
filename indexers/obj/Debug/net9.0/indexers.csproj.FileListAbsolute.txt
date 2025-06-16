@@ -1,0 +1,14 @@
+/home/ace/Documents/semester-6/dotnet/indexers/obj/Debug/net9.0/indexers.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/indexers/obj/Debug/net9.0/indexers.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/indexers/obj/Debug/net9.0/indexers.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/indexers/obj/Debug/net9.0/indexers.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/indexers/bin/Debug/net9.0/indexers
+/home/ace/Documents/semester-6/dotnet/indexers/bin/Debug/net9.0/indexers.deps.json
+/home/ace/Documents/semester-6/dotnet/indexers/bin/Debug/net9.0/indexers.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/indexers/bin/Debug/net9.0/indexers.dll
+/home/ace/Documents/semester-6/dotnet/indexers/bin/Debug/net9.0/indexers.pdb
+/home/ace/Documents/semester-6/dotnet/indexers/obj/Debug/net9.0/indexers.dll
+/home/ace/Documents/semester-6/dotnet/indexers/obj/Debug/net9.0/refint/indexers.dll
+/home/ace/Documents/semester-6/dotnet/indexers/obj/Debug/net9.0/indexers.pdb
+/home/ace/Documents/semester-6/dotnet/indexers/obj/Debug/net9.0/indexers.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/indexers/obj/Debug/net9.0/ref/indexers.dll

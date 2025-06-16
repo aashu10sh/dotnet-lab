@@ -1,0 +1,14 @@
+/home/ace/Documents/semester-6/dotnet/polymorphism/obj/Debug/net9.0/polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/polymorphism/obj/Debug/net9.0/polymorphism.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/polymorphism/obj/Debug/net9.0/polymorphism.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/polymorphism/obj/Debug/net9.0/polymorphism.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/polymorphism/bin/Debug/net9.0/polymorphism
+/home/ace/Documents/semester-6/dotnet/polymorphism/bin/Debug/net9.0/polymorphism.deps.json
+/home/ace/Documents/semester-6/dotnet/polymorphism/bin/Debug/net9.0/polymorphism.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/polymorphism/bin/Debug/net9.0/polymorphism.dll
+/home/ace/Documents/semester-6/dotnet/polymorphism/bin/Debug/net9.0/polymorphism.pdb
+/home/ace/Documents/semester-6/dotnet/polymorphism/obj/Debug/net9.0/polymorphism.dll
+/home/ace/Documents/semester-6/dotnet/polymorphism/obj/Debug/net9.0/refint/polymorphism.dll
+/home/ace/Documents/semester-6/dotnet/polymorphism/obj/Debug/net9.0/polymorphism.pdb
+/home/ace/Documents/semester-6/dotnet/polymorphism/obj/Debug/net9.0/polymorphism.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/polymorphism/obj/Debug/net9.0/ref/polymorphism.dll

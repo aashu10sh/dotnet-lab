@@ -1,0 +1,14 @@
+/home/ace/Documents/semester-6/dotnet/parent_constructor/bin/Debug/net9.0/parent_constructor
+/home/ace/Documents/semester-6/dotnet/parent_constructor/bin/Debug/net9.0/parent_constructor.deps.json
+/home/ace/Documents/semester-6/dotnet/parent_constructor/bin/Debug/net9.0/parent_constructor.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/parent_constructor/bin/Debug/net9.0/parent_constructor.dll
+/home/ace/Documents/semester-6/dotnet/parent_constructor/bin/Debug/net9.0/parent_constructor.pdb
+/home/ace/Documents/semester-6/dotnet/parent_constructor/obj/Debug/net9.0/parent_constructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/parent_constructor/obj/Debug/net9.0/parent_constructor.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/parent_constructor/obj/Debug/net9.0/parent_constructor.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/parent_constructor/obj/Debug/net9.0/parent_constructor.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/parent_constructor/obj/Debug/net9.0/parent_constructor.dll
+/home/ace/Documents/semester-6/dotnet/parent_constructor/obj/Debug/net9.0/refint/parent_constructor.dll
+/home/ace/Documents/semester-6/dotnet/parent_constructor/obj/Debug/net9.0/parent_constructor.pdb
+/home/ace/Documents/semester-6/dotnet/parent_constructor/obj/Debug/net9.0/parent_constructor.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/parent_constructor/obj/Debug/net9.0/ref/parent_constructor.dll

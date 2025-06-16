@@ -1,0 +1,14 @@
+/home/ace/Documents/semester-6/dotnet/virtual_overload/obj/Debug/net9.0/virtual_overload.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/virtual_overload/obj/Debug/net9.0/virtual_overload.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/virtual_overload/obj/Debug/net9.0/virtual_overload.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/virtual_overload/obj/Debug/net9.0/virtual_overload.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/virtual_overload/bin/Debug/net9.0/virtual_overload
+/home/ace/Documents/semester-6/dotnet/virtual_overload/bin/Debug/net9.0/virtual_overload.deps.json
+/home/ace/Documents/semester-6/dotnet/virtual_overload/bin/Debug/net9.0/virtual_overload.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/virtual_overload/bin/Debug/net9.0/virtual_overload.dll
+/home/ace/Documents/semester-6/dotnet/virtual_overload/bin/Debug/net9.0/virtual_overload.pdb
+/home/ace/Documents/semester-6/dotnet/virtual_overload/obj/Debug/net9.0/virtual_overload.dll
+/home/ace/Documents/semester-6/dotnet/virtual_overload/obj/Debug/net9.0/refint/virtual_overload.dll
+/home/ace/Documents/semester-6/dotnet/virtual_overload/obj/Debug/net9.0/virtual_overload.pdb
+/home/ace/Documents/semester-6/dotnet/virtual_overload/obj/Debug/net9.0/virtual_overload.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/virtual_overload/obj/Debug/net9.0/ref/virtual_overload.dll

@@ -1,0 +1,14 @@
+/home/ace/Documents/semester-6/dotnet/virtual_override/obj/Debug/net9.0/virtual_override.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/virtual_override/obj/Debug/net9.0/virtual_override.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/virtual_override/obj/Debug/net9.0/virtual_override.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/virtual_override/obj/Debug/net9.0/virtual_override.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/virtual_override/bin/Debug/net9.0/virtual_override
+/home/ace/Documents/semester-6/dotnet/virtual_override/bin/Debug/net9.0/virtual_override.deps.json
+/home/ace/Documents/semester-6/dotnet/virtual_override/bin/Debug/net9.0/virtual_override.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/virtual_override/bin/Debug/net9.0/virtual_override.dll
+/home/ace/Documents/semester-6/dotnet/virtual_override/bin/Debug/net9.0/virtual_override.pdb
+/home/ace/Documents/semester-6/dotnet/virtual_override/obj/Debug/net9.0/virtual_override.dll
+/home/ace/Documents/semester-6/dotnet/virtual_override/obj/Debug/net9.0/refint/virtual_override.dll
+/home/ace/Documents/semester-6/dotnet/virtual_override/obj/Debug/net9.0/virtual_override.pdb
+/home/ace/Documents/semester-6/dotnet/virtual_override/obj/Debug/net9.0/virtual_override.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/virtual_override/obj/Debug/net9.0/ref/virtual_override.dll

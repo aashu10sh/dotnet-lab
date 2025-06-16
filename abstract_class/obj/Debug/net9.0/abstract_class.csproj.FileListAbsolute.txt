@@ -1,0 +1,14 @@
+/home/ace/Documents/semester-6/dotnet/abstract_class/obj/Debug/net9.0/abstract_class.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/abstract_class/obj/Debug/net9.0/abstract_class.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/abstract_class/obj/Debug/net9.0/abstract_class.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/abstract_class/obj/Debug/net9.0/abstract_class.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/abstract_class/bin/Debug/net9.0/abstract_class
+/home/ace/Documents/semester-6/dotnet/abstract_class/bin/Debug/net9.0/abstract_class.deps.json
+/home/ace/Documents/semester-6/dotnet/abstract_class/bin/Debug/net9.0/abstract_class.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/abstract_class/bin/Debug/net9.0/abstract_class.dll
+/home/ace/Documents/semester-6/dotnet/abstract_class/bin/Debug/net9.0/abstract_class.pdb
+/home/ace/Documents/semester-6/dotnet/abstract_class/obj/Debug/net9.0/abstract_class.dll
+/home/ace/Documents/semester-6/dotnet/abstract_class/obj/Debug/net9.0/refint/abstract_class.dll
+/home/ace/Documents/semester-6/dotnet/abstract_class/obj/Debug/net9.0/abstract_class.pdb
+/home/ace/Documents/semester-6/dotnet/abstract_class/obj/Debug/net9.0/abstract_class.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/abstract_class/obj/Debug/net9.0/ref/abstract_class.dll
