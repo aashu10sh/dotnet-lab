@@ -1,0 +1,15 @@
+/home/ace/Documents/semester-6/dotnet/multicast_delegate/bin/Debug/net9.0/multicast_delegate
+/home/ace/Documents/semester-6/dotnet/multicast_delegate/bin/Debug/net9.0/multicast_delegate.deps.json
+/home/ace/Documents/semester-6/dotnet/multicast_delegate/bin/Debug/net9.0/multicast_delegate.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/multicast_delegate/bin/Debug/net9.0/multicast_delegate.dll
+/home/ace/Documents/semester-6/dotnet/multicast_delegate/bin/Debug/net9.0/multicast_delegate.pdb
+/home/ace/Documents/semester-6/dotnet/multicast_delegate/obj/Debug/net9.0/multicast_delegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/multicast_delegate/obj/Debug/net9.0/multicast_delegate.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/multicast_delegate/obj/Debug/net9.0/multicast_delegate.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/multicast_delegate/obj/Debug/net9.0/multicast_delegate.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/multicast_delegate/obj/Debug/net9.0/multicast_delegate.sourcelink.json
+/home/ace/Documents/semester-6/dotnet/multicast_delegate/obj/Debug/net9.0/multicast_delegate.dll
+/home/ace/Documents/semester-6/dotnet/multicast_delegate/obj/Debug/net9.0/refint/multicast_delegate.dll
+/home/ace/Documents/semester-6/dotnet/multicast_delegate/obj/Debug/net9.0/multicast_delegate.pdb
+/home/ace/Documents/semester-6/dotnet/multicast_delegate/obj/Debug/net9.0/multicast_delegate.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/multicast_delegate/obj/Debug/net9.0/ref/multicast_delegate.dll
