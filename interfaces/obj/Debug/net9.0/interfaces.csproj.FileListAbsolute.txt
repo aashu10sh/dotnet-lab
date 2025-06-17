@@ -1,0 +1,15 @@
+/home/ace/Documents/semester-6/dotnet/interfaces/bin/Debug/net9.0/interfaces
+/home/ace/Documents/semester-6/dotnet/interfaces/bin/Debug/net9.0/interfaces.deps.json
+/home/ace/Documents/semester-6/dotnet/interfaces/bin/Debug/net9.0/interfaces.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/interfaces/bin/Debug/net9.0/interfaces.dll
+/home/ace/Documents/semester-6/dotnet/interfaces/bin/Debug/net9.0/interfaces.pdb
+/home/ace/Documents/semester-6/dotnet/interfaces/obj/Debug/net9.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/interfaces/obj/Debug/net9.0/interfaces.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/interfaces/obj/Debug/net9.0/interfaces.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/interfaces/obj/Debug/net9.0/interfaces.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/interfaces/obj/Debug/net9.0/interfaces.sourcelink.json
+/home/ace/Documents/semester-6/dotnet/interfaces/obj/Debug/net9.0/interfaces.dll
+/home/ace/Documents/semester-6/dotnet/interfaces/obj/Debug/net9.0/refint/interfaces.dll
+/home/ace/Documents/semester-6/dotnet/interfaces/obj/Debug/net9.0/interfaces.pdb
+/home/ace/Documents/semester-6/dotnet/interfaces/obj/Debug/net9.0/interfaces.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/interfaces/obj/Debug/net9.0/ref/interfaces.dll
