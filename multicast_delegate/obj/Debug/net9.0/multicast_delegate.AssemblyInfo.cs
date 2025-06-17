@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("multicast_delegate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aeb6700451862ac586a9cca25737c50b4fba4fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d560271eaddce1c4019db29da04a2833f1bf215")]
 [assembly: System.Reflection.AssemblyProductAttribute("multicast_delegate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("multicast_delegate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
