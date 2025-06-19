@@ -1,0 +1,15 @@
+/home/ace/Documents/semester-6/dotnet/partial_class/bin/Debug/net9.0/partial_class
+/home/ace/Documents/semester-6/dotnet/partial_class/bin/Debug/net9.0/partial_class.deps.json
+/home/ace/Documents/semester-6/dotnet/partial_class/bin/Debug/net9.0/partial_class.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/partial_class/bin/Debug/net9.0/partial_class.dll
+/home/ace/Documents/semester-6/dotnet/partial_class/bin/Debug/net9.0/partial_class.pdb
+/home/ace/Documents/semester-6/dotnet/partial_class/obj/Debug/net9.0/partial_class.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/partial_class/obj/Debug/net9.0/partial_class.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/partial_class/obj/Debug/net9.0/partial_class.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/partial_class/obj/Debug/net9.0/partial_class.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/partial_class/obj/Debug/net9.0/partial_class.sourcelink.json
+/home/ace/Documents/semester-6/dotnet/partial_class/obj/Debug/net9.0/partial_class.dll
+/home/ace/Documents/semester-6/dotnet/partial_class/obj/Debug/net9.0/refint/partial_class.dll
+/home/ace/Documents/semester-6/dotnet/partial_class/obj/Debug/net9.0/partial_class.pdb
+/home/ace/Documents/semester-6/dotnet/partial_class/obj/Debug/net9.0/partial_class.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/partial_class/obj/Debug/net9.0/ref/partial_class.dll

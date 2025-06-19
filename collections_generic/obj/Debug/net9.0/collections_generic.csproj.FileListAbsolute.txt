@@ -1,0 +1,15 @@
+/home/ace/Documents/semester-6/dotnet/collections_generic/obj/Debug/net9.0/collections_generic.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/collections_generic/obj/Debug/net9.0/collections_generic.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/collections_generic/obj/Debug/net9.0/collections_generic.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/collections_generic/obj/Debug/net9.0/collections_generic.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/collections_generic/obj/Debug/net9.0/collections_generic.sourcelink.json
+/home/ace/Documents/semester-6/dotnet/collections_generic/bin/Debug/net9.0/collections_generic
+/home/ace/Documents/semester-6/dotnet/collections_generic/bin/Debug/net9.0/collections_generic.deps.json
+/home/ace/Documents/semester-6/dotnet/collections_generic/bin/Debug/net9.0/collections_generic.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/collections_generic/bin/Debug/net9.0/collections_generic.dll
+/home/ace/Documents/semester-6/dotnet/collections_generic/bin/Debug/net9.0/collections_generic.pdb
+/home/ace/Documents/semester-6/dotnet/collections_generic/obj/Debug/net9.0/collections_generic.dll
+/home/ace/Documents/semester-6/dotnet/collections_generic/obj/Debug/net9.0/refint/collections_generic.dll
+/home/ace/Documents/semester-6/dotnet/collections_generic/obj/Debug/net9.0/collections_generic.pdb
+/home/ace/Documents/semester-6/dotnet/collections_generic/obj/Debug/net9.0/collections_generic.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/collections_generic/obj/Debug/net9.0/ref/collections_generic.dll
