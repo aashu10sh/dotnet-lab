@@ -1,0 +1,15 @@
+/home/ace/Documents/semester-6/dotnet/exceptions/bin/Debug/net9.0/exceptions
+/home/ace/Documents/semester-6/dotnet/exceptions/bin/Debug/net9.0/exceptions.deps.json
+/home/ace/Documents/semester-6/dotnet/exceptions/bin/Debug/net9.0/exceptions.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/exceptions/bin/Debug/net9.0/exceptions.dll
+/home/ace/Documents/semester-6/dotnet/exceptions/bin/Debug/net9.0/exceptions.pdb
+/home/ace/Documents/semester-6/dotnet/exceptions/obj/Debug/net9.0/exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/exceptions/obj/Debug/net9.0/exceptions.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/exceptions/obj/Debug/net9.0/exceptions.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/exceptions/obj/Debug/net9.0/exceptions.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/exceptions/obj/Debug/net9.0/exceptions.sourcelink.json
+/home/ace/Documents/semester-6/dotnet/exceptions/obj/Debug/net9.0/exceptions.dll
+/home/ace/Documents/semester-6/dotnet/exceptions/obj/Debug/net9.0/refint/exceptions.dll
+/home/ace/Documents/semester-6/dotnet/exceptions/obj/Debug/net9.0/exceptions.pdb
+/home/ace/Documents/semester-6/dotnet/exceptions/obj/Debug/net9.0/exceptions.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/exceptions/obj/Debug/net9.0/ref/exceptions.dll

@@ -1,0 +1,15 @@
+/home/ace/Documents/semester-6/dotnet/file_handling/bin/Debug/net9.0/file_handling
+/home/ace/Documents/semester-6/dotnet/file_handling/bin/Debug/net9.0/file_handling.deps.json
+/home/ace/Documents/semester-6/dotnet/file_handling/bin/Debug/net9.0/file_handling.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/file_handling/bin/Debug/net9.0/file_handling.dll
+/home/ace/Documents/semester-6/dotnet/file_handling/bin/Debug/net9.0/file_handling.pdb
+/home/ace/Documents/semester-6/dotnet/file_handling/obj/Debug/net9.0/file_handling.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/file_handling/obj/Debug/net9.0/file_handling.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/file_handling/obj/Debug/net9.0/file_handling.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/file_handling/obj/Debug/net9.0/file_handling.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/file_handling/obj/Debug/net9.0/file_handling.sourcelink.json
+/home/ace/Documents/semester-6/dotnet/file_handling/obj/Debug/net9.0/file_handling.dll
+/home/ace/Documents/semester-6/dotnet/file_handling/obj/Debug/net9.0/refint/file_handling.dll
+/home/ace/Documents/semester-6/dotnet/file_handling/obj/Debug/net9.0/file_handling.pdb
+/home/ace/Documents/semester-6/dotnet/file_handling/obj/Debug/net9.0/file_handling.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/file_handling/obj/Debug/net9.0/ref/file_handling.dll
