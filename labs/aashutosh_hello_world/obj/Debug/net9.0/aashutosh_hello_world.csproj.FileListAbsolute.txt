@@ -1,0 +1,15 @@
+/home/ace/Documents/semester-6/dotnet/labs/aashutosh_hello_world/obj/Debug/net9.0/aashutosh_hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/labs/aashutosh_hello_world/obj/Debug/net9.0/aashutosh_hello_world.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/labs/aashutosh_hello_world/obj/Debug/net9.0/aashutosh_hello_world.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/labs/aashutosh_hello_world/obj/Debug/net9.0/aashutosh_hello_world.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/labs/aashutosh_hello_world/obj/Debug/net9.0/aashutosh_hello_world.sourcelink.json
+/home/ace/Documents/semester-6/dotnet/labs/aashutosh_hello_world/bin/Debug/net9.0/aashutosh_hello_world
+/home/ace/Documents/semester-6/dotnet/labs/aashutosh_hello_world/bin/Debug/net9.0/aashutosh_hello_world.deps.json
+/home/ace/Documents/semester-6/dotnet/labs/aashutosh_hello_world/bin/Debug/net9.0/aashutosh_hello_world.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/labs/aashutosh_hello_world/bin/Debug/net9.0/aashutosh_hello_world.dll
+/home/ace/Documents/semester-6/dotnet/labs/aashutosh_hello_world/bin/Debug/net9.0/aashutosh_hello_world.pdb
+/home/ace/Documents/semester-6/dotnet/labs/aashutosh_hello_world/obj/Debug/net9.0/aashutosh_hello_world.dll
+/home/ace/Documents/semester-6/dotnet/labs/aashutosh_hello_world/obj/Debug/net9.0/refint/aashutosh_hello_world.dll
+/home/ace/Documents/semester-6/dotnet/labs/aashutosh_hello_world/obj/Debug/net9.0/aashutosh_hello_world.pdb
+/home/ace/Documents/semester-6/dotnet/labs/aashutosh_hello_world/obj/Debug/net9.0/aashutosh_hello_world.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/labs/aashutosh_hello_world/obj/Debug/net9.0/ref/aashutosh_hello_world.dll

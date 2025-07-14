@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "8KOxubUk8Z5gccAoONcti9feW4yAorxn2DVRLx422tY=",
+  "Source": "mvc_demo",
+  "BasePath": "_content/mvc_demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "mvc_demo/wwwroot",
+      "Source": "mvc_demo",
+      "ContentRoot": "/home/ace/Documents/semester-6/dotnet/mvc_demo/wwwroot/",
+      "BasePath": "_content/mvc_demo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
