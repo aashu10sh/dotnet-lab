@@ -7,7 +7,6 @@ namespace Lab5
         private int[,] matrix;
         private int size;
 
-        // Constructor accepting a square matrix
         public DiagonalElementsofMatrix(int[,] inputMatrix)
         {
             if (inputMatrix.GetLength(0) != inputMatrix.GetLength(1))
@@ -17,7 +16,6 @@ namespace Lab5
             size = matrix.GetLength(0);
         }
 
-        // Method to calculate the sum of major diagonal elements
         public int GetMajorDiagonalSum()
         {
             int sum = 0;
@@ -28,7 +26,6 @@ namespace Lab5
             return sum;
         }
 
-        // Method to display the result
         public void DisplayDiagonalSum()
         {
             Console.WriteLine("Sum of major diagonal elements: " + GetMajorDiagonalSum());
