@@ -9,7 +9,6 @@ namespace Lab9
         {
             this.length = length;
         }
-
         protected int GetArea()
         {
             return this.length * this.length;
@@ -28,8 +27,8 @@ namespace Lab9
         {
             return this.price * base.GetArea();
         }
-        
+
     }
-    
+
 }
 

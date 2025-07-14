@@ -27,7 +27,7 @@ namespace Lab8
             this.grade = grade;
         }
 
-        public new void  Print()
+        public new void Print()
         {
             base.Print();
             Console.WriteLine($"Grade: {this.grade}");

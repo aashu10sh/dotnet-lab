@@ -55,15 +55,17 @@
 
             Lab8.Student balti = new Lab8.Student("Balti", 21, 89);
             balti.Print();
-            
+
             Lab9.PaintJob pj2 = new Lab9.PaintJob(10, 13);
             Console.WriteLine("Price is ${0}", pj2.CalculatePrice());
 
             Lab10.Son son = new Lab10.Son();
             son.Breathe();
-            
-            
-            
+
+            Lab11.MulticastOperations operations = new Lab11.MulticastOperations();
+            operations.Add(10,10);
+            operations.Subtract(2,1);
+
         }
     }
 }

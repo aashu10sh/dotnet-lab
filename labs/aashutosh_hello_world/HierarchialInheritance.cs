@@ -13,7 +13,7 @@ namespace Lab10
         public new virtual void Breathe()
         {
         }
-        
+
     }
 
     class Son : Father
@@ -23,6 +23,6 @@ namespace Lab10
             Console.WriteLine("The Sun Breathes");
         }
     }
-    
+
 }
 
