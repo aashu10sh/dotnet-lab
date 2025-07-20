@@ -1,0 +1,24 @@
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Employee Details Page</title>
+</head>
+<body>
+<div>
+    <p>The Id is @ViewData["id"] </p>
+    
+    @{
+        if (@ViewData["message"] != null)
+        {
+            <code> @ViewData["message"] </code>
+        }
+    }
+</div>
+</body>
+</html>

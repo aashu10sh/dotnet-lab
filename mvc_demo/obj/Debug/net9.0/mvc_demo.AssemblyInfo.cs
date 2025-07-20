@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mvc_demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ea581b214a0609b896def2a7926df5088b776ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f272661b1a10c41742c3d67d6264edcfdd4dfce4")]
 [assembly: System.Reflection.AssemblyProductAttribute("mvc_demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mvc_demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
