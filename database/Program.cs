@@ -32,6 +32,7 @@ namespace UserCrudConsole
             _userService = new UserService(context);
 
             Console.WriteLine("=== User CRUD Console Application ===");
+            Console.WriteLine("Done by Aashutosh Pudasaini 1202");
             Console.WriteLine();
 
             bool exit = false;
