@@ -1,0 +1,15 @@
+/home/ace/Documents/semester-6/dotnet/exam_practice/obj/Debug/net9.0/exam_practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Documents/semester-6/dotnet/exam_practice/obj/Debug/net9.0/exam_practice.AssemblyInfoInputs.cache
+/home/ace/Documents/semester-6/dotnet/exam_practice/obj/Debug/net9.0/exam_practice.AssemblyInfo.cs
+/home/ace/Documents/semester-6/dotnet/exam_practice/obj/Debug/net9.0/exam_practice.csproj.CoreCompileInputs.cache
+/home/ace/Documents/semester-6/dotnet/exam_practice/obj/Debug/net9.0/exam_practice.sourcelink.json
+/home/ace/Documents/semester-6/dotnet/exam_practice/bin/Debug/net9.0/exam_practice
+/home/ace/Documents/semester-6/dotnet/exam_practice/bin/Debug/net9.0/exam_practice.deps.json
+/home/ace/Documents/semester-6/dotnet/exam_practice/bin/Debug/net9.0/exam_practice.runtimeconfig.json
+/home/ace/Documents/semester-6/dotnet/exam_practice/bin/Debug/net9.0/exam_practice.dll
+/home/ace/Documents/semester-6/dotnet/exam_practice/bin/Debug/net9.0/exam_practice.pdb
+/home/ace/Documents/semester-6/dotnet/exam_practice/obj/Debug/net9.0/exam_practice.dll
+/home/ace/Documents/semester-6/dotnet/exam_practice/obj/Debug/net9.0/refint/exam_practice.dll
+/home/ace/Documents/semester-6/dotnet/exam_practice/obj/Debug/net9.0/exam_practice.pdb
+/home/ace/Documents/semester-6/dotnet/exam_practice/obj/Debug/net9.0/exam_practice.genruntimeconfig.cache
+/home/ace/Documents/semester-6/dotnet/exam_practice/obj/Debug/net9.0/ref/exam_practice.dll
