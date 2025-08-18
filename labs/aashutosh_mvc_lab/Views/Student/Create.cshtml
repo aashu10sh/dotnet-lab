@@ -1,0 +1,190 @@
+@model aashutosh_mvc_lab.Models.Student
+
+@{
+    ViewData["Title"] = "Create Student";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <h2 class="mb-0">
+                        <i class="fas fa-user-plus me-2"></i>Student Registration Form
+                    </h2>
+                    <small class="text-light">All fields marked with * are required</small>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Create" method="post" id="studentForm" novalidate>
+                        @Html.AntiForgeryToken()
+                        
+                        <div class="mb-3">
+                            <label asp-for="FullName" class="form-label fw-bold">
+                                <span class="text-danger">*</span> @Html.DisplayNameFor(m => m.FullName)
+                            </label>
+                            <input asp-for="FullName" class="form-control" placeholder="Enter your full name (letters and spaces only)" 
+                                   data-val="true" data-val-required="Full Name is required" 
+                                   data-val-length="Full Name must be between 2 and 100 characters"
+                                   data-val-length-min="2" data-val-length-max="100"
+                                   data-val-regex="Full Name can only contain letters and spaces"
+                                   data-val-regex-pattern="^[a-zA-Z\s]+$" />
+                            <span asp-validation-for="FullName" class="text-danger"></span>
+                            <div class="form-text">Only letters and spaces allowed (2-100 characters)</div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Email" class="form-label fw-bold">
+                                <span class="text-danger">*</span> @Html.DisplayNameFor(m => m.Email)
+                            </label>
+                            <input asp-for="Email" class="form-control" placeholder="Enter your email address" 
+                                   data-val="true" data-val-required="Email is required"
+                                   data-val-email="Please enter a valid email address"
+                                   data-val-length="Email cannot exceed 255 characters"
+                                   data-val-length-max="255" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                            <div class="form-text">We'll never share your email with anyone else</div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Address" class="form-label fw-bold">
+                                <span class="text-danger">*</span> @Html.DisplayNameFor(m => m.Address)
+                            </label>
+                            <textarea asp-for="Address" class="form-control" rows="3" placeholder="Enter your complete address"
+                                      data-val="true" data-val-required="Address is required"
+                                      data-val-length="Address must be between 5 and 200 characters"
+                                      data-val-length-min="5" data-val-length-max="200"></textarea>
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                            <div class="form-text">Include street, city, state/province (5-200 characters)</div>
+                        </div>
+
+                        <div class="mb-4">
+                            <label asp-for="Phone" class="form-label fw-bold">
+                                <span class="text-danger">*</span> @Html.DisplayNameFor(m => m.Phone)
+                            </label>
+                            <input asp-for="Phone" class="form-control" placeholder="Enter your phone number (10-15 digits)" 
+                                   data-val="true" data-val-required="Phone is required"
+                                   data-val-phone="Please enter a valid phone number"
+                                   data-val-regex="Phone number must be 10-15 digits and may include a + prefix"
+                                   data-val-regex-pattern="^[\+]?[0-9]{10,15}$" />
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                            <div class="form-text">Format: +1234567890 or 1234567890 (10-15 digits)</div>
+                        </div>
+
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-primary btn-lg" id="submitBtn">
+                                <i class="fas fa-paper-plane me-2"></i>Submit Registration
+                            </button>
+                            <button type="button" class="btn btn-outline-secondary" onclick="resetForm()">
+                                <i class="fas fa-redo me-2"></i>Reset Form
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Validation Summary -->
+            <div class="mt-3">
+                <div asp-validation-summary="All" class="alert alert-danger" style="display: none;" role="alert">
+                    <strong>Please correct the following errors:</strong>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    
+    <script>
+        $(document).ready(function() {
+            // Enhanced client-side validation
+            $('#studentForm').validate({
+                rules: {
+                    FullName: {
+                        required: true,
+                        minlength: 2,
+                        maxlength: 100,
+                        pattern: /^[a-zA-Z\s]+$/
+                    },
+                    Email: {
+                        required: true,
+                        email: true,
+                        maxlength: 255
+                    },
+                    Address: {
+                        required: true,
+                        minlength: 5,
+                        maxlength: 200
+                    },
+                    Phone: {
+                        required: true,
+                        pattern: /^[\+]?[0-9]{10,15}$/
+                    }
+                },
+                messages: {
+                    FullName: {
+                        required: "Full Name is required",
+                        minlength: "Full Name must be at least 2 characters",
+                        maxlength: "Full Name cannot exceed 100 characters",
+                        pattern: "Full Name can only contain letters and spaces"
+                    },
+                    Email: {
+                        required: "Email is required",
+                        email: "Please enter a valid email address",
+                        maxlength: "Email cannot exceed 255 characters"
+                    },
+                    Address: {
+                        required: "Address is required",
+                        minlength: "Address must be at least 5 characters",
+                        maxlength: "Address cannot exceed 200 characters"
+                    },
+                    Phone: {
+                        required: "Phone is required",
+                        pattern: "Phone number must be 10-15 digits and may include a + prefix"
+                    }
+                },
+                errorElement: 'span',
+                errorClass: 'text-danger',
+                highlight: function(element) {
+                    $(element).addClass('is-invalid');
+                },
+                unhighlight: function(element) {
+                    $(element).removeClass('is-invalid').addClass('is-valid');
+                },
+                submitHandler: function(form) {
+                    $('#submitBtn').prop('disabled', true).html('<i class="fas fa-spinner fa-spin me-2"></i>Submitting...');
+                    form.submit();
+                }
+            });
+
+            // Real-time validation feedback
+            $('input, textarea').on('input blur', function() {
+                $(this).valid();
+            });
+
+            // Custom pattern validation method
+            $.validator.addMethod("pattern", function(value, element, pattern) {
+                return this.optional(element) || pattern.test(value);
+            }, "Please enter a valid format.");
+        });
+
+        // Reset form function
+        function resetForm() {
+            $('#studentForm')[0].reset();
+            $('.is-invalid, .is-valid').removeClass('is-invalid is-valid');
+            $('.text-danger').text('');
+            $('#submitBtn').prop('disabled', false).html('<i class="fas fa-paper-plane me-2"></i>Submit Registration');
+        }
+
+        // Phone number formatting
+        $('#Phone').on('input', function() {
+            let value = $(this).val().replace(/\D/g, '');
+            if (value.length > 0 && !value.startsWith('+')) {
+                // Auto-format for common patterns
+                if (value.length === 10) {
+                    $(this).val(value.replace(/(\d{3})(\d{3})(\d{4})/, '$1-$2-$3'));
+                }
+            }
+        });
+    </script>
+}

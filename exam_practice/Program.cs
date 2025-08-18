@@ -27,6 +27,13 @@
                 Console.WriteLine($"Wowsers, {ex.Message}");
             }
 
+            MorningStudy<string> stringMorning = new MorningStudy<string>("hello_world");
+            stringMorning.PrintStuffT();
+
+            MorningStudyCollectionStuff TuffCollections = new MorningStudyCollectionStuff();
+            TuffCollections.DemonstrateLists();
+
+            TuffCollections.DeleGateDemo();
         }
     }
 }

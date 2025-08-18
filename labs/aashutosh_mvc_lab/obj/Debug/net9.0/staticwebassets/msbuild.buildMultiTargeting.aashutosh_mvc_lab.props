@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/aashutosh_mvc_lab.props" />
+</Project>
