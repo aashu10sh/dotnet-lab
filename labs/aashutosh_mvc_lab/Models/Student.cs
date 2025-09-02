@@ -26,5 +26,10 @@ namespace aashutosh_mvc_lab.Models
         [Display(Name = "Phone Number")]
         [RegularExpression(@"^[\+]?[0-9]{10,15}$", ErrorMessage = "Phone number must be 10-15 digits and may include a + prefix")]
         public string Phone { get; set; } = string.Empty;
+        
+        [Required(ErrorMessage = "Password is required")]
+        [DataType(DataType.Password)]
+        [Display(Name = "Password")]
+        public required string Password { get; set; }
     }
 }

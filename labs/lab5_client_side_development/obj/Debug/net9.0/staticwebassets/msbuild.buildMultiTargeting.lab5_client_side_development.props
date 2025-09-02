@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/lab5_client_side_development.props" />
+</Project>

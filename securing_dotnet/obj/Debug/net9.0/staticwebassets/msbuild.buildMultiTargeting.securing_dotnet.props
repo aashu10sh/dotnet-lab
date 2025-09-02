@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/securing_dotnet.props" />
+</Project>

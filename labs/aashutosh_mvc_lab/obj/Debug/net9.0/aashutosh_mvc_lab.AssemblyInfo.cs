@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aashutosh_mvc_lab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae01ab23bc1ea04d41ed5b788ec887703146ea2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+563c8e7cd671dfff5388e26a6f33dc835ece6704")]
 [assembly: System.Reflection.AssemblyProductAttribute("aashutosh_mvc_lab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aashutosh_mvc_lab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
